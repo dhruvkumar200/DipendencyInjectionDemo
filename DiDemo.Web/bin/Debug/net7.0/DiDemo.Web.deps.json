@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DiDemo.Web/1.0.0": {
+        "dependencies": {
+          "DiDemo.Data": "1.0.0"
+        },
+        "runtime": {
+          "DiDemo.Web.dll": {}
+        }
+      },
+      "DiDemo.Data/1.0.0": {
+        "runtime": {
+          "DiDemo.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiDemo.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiDemo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
